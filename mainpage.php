@@ -1,6 +1,6 @@
 <?php include('inc/header.html'); ?>
 <body class="bg-light">
-<?php include('inc/mainpage_header.html');?>
+<?php include('inc/mainpage_header.php'); ?>
 <main>
   <div class = "container">
     <h2 class = "text-center p-5">Pleasure to meet you</h2>
@@ -91,4 +91,4 @@
  </footer>
 
 
-<?php include('inc/footer.html'); ?>
+<?php include('inc/footer.php'); ?>
